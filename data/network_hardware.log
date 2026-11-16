@@ -1,17 +1,17 @@
 ﻿
             COMPUTER PULSE - HARDWARE & NETWORK LOG
 
-Timestamp          : 2026-11-16 14:11:16
-Active Processes   : 222 running processes
-CPU Utilization    : 19% load
+Timestamp          : 2026-11-16 14:21:31
+Active Processes   : 216 running processes
+CPU Utilization    : 16% load
 
 Top 3 Memory-Consuming Processes:
 
 Name           RAM_MB
 ----           ------
-msedgewebview2 487.84
-WhatsApp.Root  281.88
-explorer       254.08
+msedgewebview2  496.4
+explorer       373.59
+WhatsApp.Root  281.99
 
 
 
@@ -20,7 +20,7 @@ Disk Storage Breakdown:
 
 DeviceID FreeGB TotalGB
 -------- ------ -------
-C:        67.95  125.81
+C:        67.84  125.81
 E:        70.06   97.66
 
 
@@ -28,5 +28,5 @@ E:        70.06   97.66
 
 Network Diagnostics:
 Active IPv4 Address: 192.168.43.144
-Internet Latency   : 212 ms (Target: 8.8.8.8)
+Internet Latency   : 172 ms (Target: 8.8.8.8)
 
